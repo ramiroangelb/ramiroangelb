@@ -1,0 +1,4 @@
+- @ramiroangelb
+- Learning Python and Java
+- Looking for ways to optimize code and keep development flow clean
+- 📫 ramiroangelb@gmail.com
